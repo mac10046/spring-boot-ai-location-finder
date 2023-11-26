@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Nov 19 20:24:04 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018b-e813-0db9-0000036dfed8 
+on database directory memory:/media/abdeali/AbdealiHDD/Projects/PostalCodeSearcher/75bc1dc7-7c04-43af-b170-eaef89eed8ad with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/abdeali/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=17.0.9+8-LTS
+user.dir=/media/abdeali/AbdealiHDD/Projects/PostalCodeSearcher
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-88-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Nov 19 20:39:28 IST 2023:
+Shutting down instance a816c00e-018b-e813-0db9-0000036dfed8 on database directory memory:/media/abdeali/AbdealiHDD/Projects/PostalCodeSearcher/75bc1dc7-7c04-43af-b170-eaef89eed8ad with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
